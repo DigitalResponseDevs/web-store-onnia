@@ -18,7 +18,7 @@ export const products: Product[] = [
     price: 29.99,
     category: "Vestidos",
     images: [
-      "../public/images/vestido-saten-rosa-nude-large-onnia.png"
+      "/images/vestido-saten-rosa-nude-large-onnia.png"
     ],
     description: "Vestido básica de tela satén 100% premium. Perfecta para el uso diario con un corte moderno y cómodo. Fabricado con materiales sostenibles y de alta calidad.",
     sizes: ["XS", "S", "M", "L", "XL"],
@@ -32,7 +32,7 @@ export const products: Product[] = [
     price: 79.99,
     category: "Vestidos",
     images: [
-      "../public/images/vestido-saten-rosa-nude-short-onnia.png"  
+      "/images/vestido-saten-rosa-nude-short-onnia.png"  
     ],
     description: "Vestido slim fit de mezclilla premium. Diseño moderno con corte entallado que estiliza la figura. Confeccionado con denim de alta resistencia.",
     sizes: ["28", "30", "32", "34", "36"],
@@ -46,7 +46,7 @@ export const products: Product[] = [
     price: 59.99,
     category: "Vestidos",
     images: [
-      "../public/images/vestido-saten-corto-oliva-onnia.png"
+      "/images/vestido-saten-corto-oliva-onnia.png"
     ],
     description: "Ideal para el día a día y actividades casuales.",
     sizes: ["S", "M", "L", "XL"],
@@ -60,7 +60,7 @@ export const products: Product[] = [
     price: 89.99,
     category: "Pantalones",
     images: [
-      "public/images/pantalon-saten-rosa-nude-onnia.png"
+      "/images/pantalon-saten-rosa-nude-onnia.png"
     ],
     description: "Pantalón casual elegante perfecto para múltiples ocasiones. Confeccionado en tela fluida con caída natural. Diseño versátil y atemporal.",
     sizes: ["XS", "S", "M", "L"],
